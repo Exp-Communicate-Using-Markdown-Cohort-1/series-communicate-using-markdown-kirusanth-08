@@ -8,3 +8,6 @@
 ```
 https://github.com/kirusanth-08/
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
